@@ -9,3 +9,4 @@ if number >= 0:
 
 else:
     print(Fore.BLACK + Back.LIGHTRED_EX + "Senkin negis.")
+    print()
